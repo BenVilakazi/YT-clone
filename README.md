@@ -22,7 +22,9 @@ A modern YouTube clone application built with React, Material UI, and Rapid API.
 
 ## Demo
 
-Check out the live demo: [YouTube Clone Demo](https://your-demo-link.com)
+Check out the demo video: [YouTube Clone Demo](https://screenapp.io/app/#/shared/1UUeUyHBpI)
+
+Check out the live demo: [YouTube Clone Demo](https://youtubeclone-farhan.netlify.app/)
 
 ## Installation
 
@@ -79,4 +81,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Ben Vilakazi - [xolanithegeenguba@gmail.com](mailto:xolanithegeenguba@gmail.com)
 
 Project Link: [https://github.com/your-username/youtube-clone](https://github.com/benvilakazi/yt-clone)
-```

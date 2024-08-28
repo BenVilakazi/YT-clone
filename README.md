@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Ben Vilakazi - [xolanithegeenguba@gmail.com](mailto:xolanithegeenguba@gmail.com)
 
-Project Link: [https://github.com/your-username/youtube-clone](https://github.com/benvilakazi/yt-clone)
+Project Link: [https://github.com/benvilakazi/yt-clone](https://github.com/benvilakazi/yt-clone)

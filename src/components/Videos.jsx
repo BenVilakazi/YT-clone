@@ -18,4 +18,4 @@ const Videos = ({ videos, direction }) => {
   );
 }
 
-export default Videos;
+export default Videos; 

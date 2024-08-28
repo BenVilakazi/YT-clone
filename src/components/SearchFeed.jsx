@@ -6,4 +6,4 @@ const SearchFeed = () => {
   )
 }
 
-export default SearchFeed
+export default SearchFeed 

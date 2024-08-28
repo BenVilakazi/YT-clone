@@ -28,4 +28,4 @@ const VideoCard = ({ video: { id: { videoId }, snippet } }) => (
   </Card>
 );
 
-export default VideoCard
+export default VideoCard 
